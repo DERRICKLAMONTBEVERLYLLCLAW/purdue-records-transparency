@@ -2,6 +2,7 @@
 Public records + student investigation transparency archive – Derrick LaMont Beverly
 _Last updated: August 7, 2025_
 
+
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -75,5 +76,10 @@ _Last updated: August 7, 2025_
 
 <h2>📬 Contact</h2>
 <p>Email: <a href="mailto:derniercrilamont@yahoo.com">derniercrilamont@yahoo.com</a></p>
-<p>GitHub: <a href="https://github.com/DERRICKLAMONTBEVERLYLLCLAW">@DERRICKLAM
+<p>GitHub: <a href="https://github.com/DERRICKLAMONTBEVERLYLLCLAW">@DERRICKLAMONTBEVERLYLLCLAW</a></p>
 
+  </div>  <div class="footer">
+    <p>&copy; 2025 Derrick LaMont Beverly | Purdue Records Transparency Project</p>
+  </div>
+</body>
+</html>
